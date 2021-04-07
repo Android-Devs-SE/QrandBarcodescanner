@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Qr code and bar code scanner</string>
+    <string name="results_appear_here">Result</string>
+</resources>
